@@ -6,7 +6,6 @@ client.on('ready', () => {
 });
 
 client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
-if (message.content.startsWith(prefix + "bc"))
 
   
   
